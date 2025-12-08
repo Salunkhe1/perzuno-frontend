@@ -1,0 +1,14 @@
+body {
+  margin: 0;
+  padding: 0;
+  background: linear-gradient(135deg, #0B1A2A, #0F243A, #0A1F33);
+  /* Optional: smooth gradient blend */
+  background-size: cover;
+  background-repeat: no-repeat;
+  font-family: sans-serif;
+}
+.contact-page {
+  background: linear-gradient(135deg, #0B1A2A, #0F243A, #0A1F33);
+  min-height: 100vh;
+  padding-top: 60px;
+}
